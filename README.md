@@ -1,6 +1,6 @@
 # Backend Task 
 
-This project is a solution to a backend assignment provided by Dono.ai.  
+This project is a solution to a backend assignment.  
 The goal of the task is to integrate a new data source (Seminole County, Florida) by scraping real estate document records and returning structured information in JSON format.
 
 ---
@@ -45,6 +45,7 @@ Last name: smith
 From date: 01/10/2023
 Thru date: 01/06/2024
 
+---
 
 ###  Example Output
 

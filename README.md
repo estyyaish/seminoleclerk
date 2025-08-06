@@ -1,4 +1,4 @@
-# Dono.ai Backend Task 
+# Backend Task 
 
 This project is a solution to a backend assignment provided by Dono.ai.  
 The goal of the task is to integrate a new data source (Seminole County, Florida) by scraping real estate document records and returning structured information in JSON format.
@@ -37,8 +37,8 @@ Target site:
 
 ##  Install dependencies
 
-<!-- ```bash
-pip install -r requirements.txt -->
+```bash
+pip install -r requirements.txt 
 
 ---
 

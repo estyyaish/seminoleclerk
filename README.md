@@ -7,7 +7,7 @@ The goal of the task is to integrate a new data source (Seminole County, Florida
 
 ##  Task Overview
 
-Dono.ai aims to simplify access to billions of real estate documents.  
+The company aims to simplify access to billions of real estate documents.  
 In this task, we were asked to build a Python script that:
 
 - Accepts a person's full name and a date range
@@ -33,8 +33,7 @@ Target site:
 
 ##  Install dependencies
 
-<!-- ```bash
-pip install -r requirements.txt -->
+pip install -r requirements.txt 
 
 ---
 

@@ -39,11 +39,11 @@ pip install -r requirements.txt -->
 ---
 
 ##  Example Input
-```json
-First name: ben
-Last name: smith
-From date: 01/10/2023
-Thru date: 01/06/2024
+
+- First name: ben
+- Last name: smith
+- From date: 01/10/2023
+- Thru date: 01/06/2024
 
 ---
 

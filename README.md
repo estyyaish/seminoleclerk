@@ -31,18 +31,15 @@ Target site:
 
 ---
 
-##  Project Structure
-
-##  How to Run
-
 ##  Install dependencies
 
-```bash
-pip install -r requirements.txt 
+<!-- ```bash
+pip install -r requirements.txt -->
 
 ---
 
 ##  Example Input
+```json
 First name: ben
 Last name: smith
 From date: 01/10/2023
